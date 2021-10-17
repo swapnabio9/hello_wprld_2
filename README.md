@@ -1,4 +1,4 @@
-# hello_wprld_2
+# hello_world_2
 my second repository
 Glow is making first changes in the file and want to save it
 Glow is making econd change.. hehehe
